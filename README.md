@@ -1,4 +1,4 @@
-static
+static demo
 ======
 
 static demo
