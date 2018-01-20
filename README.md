@@ -1,4 +1,4 @@
-static demo
+About Me
 ======
 
-static demo
+User experience manager, information architect,  (under construction....)
