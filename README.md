@@ -1,4 +1,6 @@
 About Me
 ======
 
-User experience manager, information architect,  (under construction....)
+User experience manager, information architect, web content developer.
+
+(under construction....)
