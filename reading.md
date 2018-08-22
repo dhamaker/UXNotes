@@ -16,6 +16,7 @@
 * [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 
 ## Web Guidelines
+* [What's new in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)
 * [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/WCAG20/)
 * [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 A guide to understanding and implementing Web Content Accessibility Guidelines 2.0
@@ -33,6 +34,8 @@ Techniques and Failures for Web Content Accessibility Guidelines 2.0
 * California Online Privacy Protection Act (CalOPPA)
 * Children's Online Privacy Protection Act (COPPA)
 * HIPAA Marketing and Privacy Rule
+* [EU GDPR Information Portal](https://www.eugdpr.org/)
+* [How will GDPR affect UX Design?](https://www.invisionapp.com/blog/gdpr-ux-design/)
 * E-Sign Act
 * Section 504
 * Section 508
