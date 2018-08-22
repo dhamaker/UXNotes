@@ -20,6 +20,6 @@ UX managers need to have current knowledge in many different areas.
 * Web Content Trends (progressive web apps, responsive design, grid layout, etc)
 * Search Engine Optimization (SEO)
 
-## References
+## References Material
 [Bibliograhy](reading.md)
 
