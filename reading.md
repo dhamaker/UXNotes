@@ -29,6 +29,7 @@ Techniques and Failures for Web Content Accessibility Guidelines 2.0
 * [OWASP Secure Coding Cheatsheet](https://www.owasp.org/index.php/Secure_Coding_Cheat_Sheet)
 
 ## Web Regulations
+* [California Consumer Privacy Act of 2018 (AB375)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)
 * California Online Privacy Protection Act (CalOPPA)
 * Children's Online Privacy Protection Act (COPPA)
 * HIPAA Marketing and Privacy Rule
