@@ -12,8 +12,8 @@
 * [Service Worker Use Cases](https://github.com/w3c-webmob/ServiceWorkersDemos)
 * [Services Worker Explainer](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Push API (WD)](https://www.w3.org/TR/push-api/)
-* [Web Payments Overview 1.0](https://www.w3.org/TR/2016/NOTE-webpayments-overview-20161013/)
-* [Web Authenticators](https://www.w3.org/TR/2017/WD-webauthn-20171205/)
+* [Web Payments Overview 1.0](https://www.w3.org/TR/webpayments-overview/)
+* [Web Authenticators](https://www.w3.org/TR/webauthn/)
 * [Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
 * [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 
