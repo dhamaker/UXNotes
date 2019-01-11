@@ -25,8 +25,8 @@ A guide to understanding and implementing Web Content Accessibility Guidelines 2
 * [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/)
 * [Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/TR/WCAG21/)
 Techniques and Failures for Web Content Accessibility Guidelines 2.0
-* FTC .com disclosures
-* CA Privacy Policy guidelines
+* [FTC .com disclosures (PDF)](https://www.ftc.gov/system/files/documents/plain-language/bus41-dot-com-disclosures-information-about-online-advertising.pdf)
+* [CA Attorney General's Privacy Policy guidelines (PDF)](https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersecurity/making_your_privacy_practices_public.pdf)
 * NIST Cybersecurity Guidelines
 * [OWASP Secure Coding Practices](https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf)
 * [OWASP Secure Coding Cheatsheet](https://www.owasp.org/index.php/Secure_Coding_Cheat_Sheet)
