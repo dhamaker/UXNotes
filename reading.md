@@ -5,6 +5,8 @@
 * [HTML 5.2 (REC)](https://www.w3.org/TR/html5/)
 * [CSS (various)](https://www.w3.org/Style/CSS/Overview.en.html)
 * [Activity Streams 2.0 (REC)](https://www.w3.org/TR/activitystreams-core/)
+* [Verifiable Claims - Data Model](https://www.w3.org/TR/verifiable-claims-data-model/)
+* [Verifiable Claims - Use Cases](https://www.w3.org/TR/verifiable-claims-use-cases/)
 * [Web Workers (WD)](https://www.w3.org/TR/workers/)
 * [Service Workers 1 (WD)](https://www.w3.org/TR/service-workers-1/)
 * [Service Worker Use Cases](https://github.com/w3c-webmob/ServiceWorkersDemos)
