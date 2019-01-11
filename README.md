@@ -1,4 +1,4 @@
-# About Me
+# User Experience Practice
 
 User experience manager, information architect, web content developer.
 (under construction....)
