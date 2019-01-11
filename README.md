@@ -1,7 +1,7 @@
 # User Experience Practice
 
 User experience manager, information architect, web content developer.
-(under construction....)
+(under construction.... )
 
 ## UX Interests
 I'm interested in making web accessible and safe or the general public.  Managing family and private access to information and services.
