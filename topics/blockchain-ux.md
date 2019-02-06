@@ -19,5 +19,10 @@ Many bc wallets are little more than developed GUI for an API, designed to demon
 * usability.  need to look at incremental impact.  any new application should have UX, but is there a special blockchain UX
 * investors and presentations.  -- is really more brand design; you want the investors to identify with look.
 * ux research, ethnography, 
+* ux design in early stages overlaps service/process/business design.
 * what's the use case, many DLT transformation are middleware replacements - using DLT to streamline transactions/records between systems.
 * Performance is fundamental UX issue, but mostly an engineering challenge.
+* nature of architecture impacts UX: public/federated, custodial/hardware/physical,
+* lifecycle - investors, early adoptors, mass audience....
+
+COST OF UX PROBLEMS: lower adoption, lost coin, abandoned accounts, increased service calls,
