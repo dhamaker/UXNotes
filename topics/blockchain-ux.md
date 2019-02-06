@@ -20,3 +20,4 @@ Many bc wallets are little more than developed GUI for an API, designed to demon
 * investors and presentations.  -- is really more brand design; you want the investors to identify with look.
 * ux research, ethnography, 
 * what's the use case, many DLT transformation are middleware replacements - using DLT to streamline transactions/records between systems.
+* Performance is fundamental UX issue, but mostly an engineering challenge.
