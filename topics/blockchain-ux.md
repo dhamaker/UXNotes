@@ -1,6 +1,6 @@
 Is there a blockchain UX? 
 
-> Welcome (welcome.md)
+> Welcome [welcome.md](welcome.md)
 
 
 > Overview
@@ -42,4 +42,4 @@ COST OF UX PROBLEMS: lower adoption, lost coin, abandoned accounts, increased se
 --------
 
 
-> Outro (outro.md)
+> Outro [outro.md](outro.md)
