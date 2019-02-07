@@ -1,8 +1,5 @@
 Is there a blockchain UX? 
 
-Hi, welcome to Beneath the Hype where we take a practical look
-at technology from the eyes of veteran technology managers.
-
 Hi, welcome to The Talk with TechWise where we take a practical look
 at technology from the eyes of veteran technology managers.
 
