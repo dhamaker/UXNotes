@@ -1,23 +1,7 @@
 Is there a blockchain UX? 
 
-> Welcome
+> Welcome [welcome.md]
 
-Hi, welcome to The Talk with TechWise where we take a practical look
-at technology from the eyes of veteran technology managers.
-
-I'm Cathy...
-
-I'm Adrian...
-
-I'm Doug a user experience architect, product manager, and MBA who's been creating consumer and enterprise software and web products for 25 years. 
-
-And, I'm Miguel...
-
-Today we'll be looking at _blockchain user experience_.
-
-(our special guest is...)
-
--------
 
 > Overview
 
@@ -59,5 +43,3 @@ COST OF UX PROBLEMS: lower adoption, lost coin, abandoned accounts, increased se
 
 
 > Outro  
-
-This has been The Talk with TechWise where we take a practical look beneath the hype of technologies that impact our lives and work.  (Our guest has been...).
