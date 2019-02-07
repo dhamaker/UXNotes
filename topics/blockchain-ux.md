@@ -1,5 +1,7 @@
 Is there a blockchain UX? 
 
+> Welcome
+
 Hi, welcome to The Talk with TechWise where we take a practical look
 at technology from the eyes of veteran technology managers.
 
@@ -17,7 +19,7 @@ Today we'll be looking at _blockchain user experience_.
 
 -------
 
-# Introduction
+> Overview
 
 # Blockchain UX: hype or hope? 
 
@@ -39,7 +41,7 @@ If there is what is it and how should you budget?
 Many bc wallets are little more than developed GUI for an API, designed to demonstrate the mechanics.   transparency. Clean design to make nice sale presentations. 
 
 ----
-
+> Discusion
 
 * usability.  need to look at incremental impact.  any new application should have UX, but is there a special blockchain UX
 * investors and presentations.  -- is really more brand design; you want the investors to identify with look.
@@ -56,5 +58,6 @@ COST OF UX PROBLEMS: lower adoption, lost coin, abandoned accounts, increased se
 --------
 
 
+> Outro  
 
-[outro]  This has been The Talk with TechWise where we take a practical look beneath the hype of technologies that impact our lives and work.  (Our guest has been...).
+This has been The Talk with TechWise where we take a practical look beneath the hype of technologies that impact our lives and work.  (Our guest has been...).
