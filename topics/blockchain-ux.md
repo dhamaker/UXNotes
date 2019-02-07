@@ -9,10 +9,9 @@ I'm Adrian...
 
 I'm Doug a user experience architect, product manager, and MBA who's been creating consumer and enterprise software and web products for 25 years. 
 
-And I'm Miguel...
+And, I'm Miguel...
 
-Today we'll be looking at 
-blockchain user exerience.
+Today we'll be looking at _blockchain user experience_.
 
 (our special guest is...)
 
