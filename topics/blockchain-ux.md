@@ -57,4 +57,4 @@ COST OF UX PROBLEMS: lower adoption, lost coin, abandoned accounts, increased se
 
 
 
-[outro]  This has been The Talk with TechWise a look at technologies that impact our lives and work.  (Our guest has been...).  Beneath the hype.
+[outro]  This has been The Talk with TechWise where we take a practical look beneath the hype of technologies that impact our lives and work.  (Our guest has been...).
