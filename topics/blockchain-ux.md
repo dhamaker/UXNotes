@@ -1,15 +1,44 @@
-#  Is there a blockchain UX? 
+Is there a blockchain UX? 
 
-# Introduction:  Blockchain UX: hype or hope? 
+Hi, welcome to Beneath the Hype where we take a practical look
+at technology from the eyes of veteran technology managers.
 
-In February, IDEO, a top technology design firm, announced a blockchain venture to fund DLT startups and design thinking [1](https://www.businessinsider.com/ideo-turning-to-blockchain-2019-2).
+Hi, welcome to The Talk with TechWise where we take a practical look
+at technology from the eyes of veteran technology managers.
 
-That blockchain needs “UX” is not a given. Of course plenty of designers want a foot in the blockchain door and are pushing for the benefits of UX involvement. 
+I'm Cathy...
 
-But there is the opposite view, that blockchain doesn't represent any special UX problems; its just the engine.  That consumers care about the experience, but are ambivelant about the underlying technology.
+I'm Adrian...
+
+I'm Doug a user experience architect, product manager, and MBA who's been creating consumer and enterprise software and web products for 25 years. 
+
+And I'm Miguel...
+
+Today we'll be looking at 
+blockchain user exerience.
+
+(our special guest is...)
+
+-------
+
+# Introduction
+
+# Blockchain UX: hype or hope? 
+
+Early this year, IDEO, an international design firm, announced a special venture to fund DLT startups and design thinking [(1)](https://www.businessinsider.com/ideo-turning-to-blockchain-2019-2).  
+You don't have to search hard to find designers lobbying for user experience (UX) services as essential to mass adoption - and realization of the transformative promise.
+
+At the same time, many argue blockchain is infrastructure and doesn't need UX design. While consumers care about experience, they don't directly experience the ledger.  but are ambivelant about the underlying technology.
+
+Project funding is finite.  So, is UX critical or just another drain for investment.  Just another voice seeking a piece of the pie. hoping to catch the blockchain wave. 
 
 Today we dig into the question what is UX for blockchain?
-Is it a marketing ploy to make glossy eyecandy to grab a piece of the VC money chasing BC?  Or, do DLT present a new UX.
+
+
+Is it a marketing ploy to make glossy eye candy to grab a piece of the VC money chasing BC?  Or, do DLT present a new UX.
+
+Is there a role for UX in a blockchain project?  
+If there is what is it and how should you budget?
 
 Many bc wallets are little more than developed GUI for an API, designed to demonstrate the mechanics.   transparency. Clean design to make nice sale presentations. 
 
@@ -26,3 +55,10 @@ Many bc wallets are little more than developed GUI for an API, designed to demon
 * lifecycle - investors, early adoptors, mass audience....
 
 COST OF UX PROBLEMS: lower adoption, lost coin, abandoned accounts, increased service calls,
+
+
+--------
+
+
+
+[outro]  This has been The Talk with TechWise a look at technologies that impact our lives and work.  (Our guest has been...).  Beneath the hype.
