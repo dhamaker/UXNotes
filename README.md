@@ -4,7 +4,6 @@ User experience manager, information architect, web content developer.
 (under construction.... )
 
 ## UX Interests
-I'm interested in 
 
 * User-centric design culture.
 * Making the Web accessible and safe for consumers.  
