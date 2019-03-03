@@ -4,9 +4,14 @@ User experience manager, information architect, web content developer.
 (under construction.... )
 
 ## UX Interests
-I'm interested in making web accessible and safe or the general public.  Managing family and private access to information and services.
+I'm interested in 
 
-Web Standards, Accessibility, Privacy, Access, Sharing, HTML prototyping, Analytics. Consumer identity and access management.  Blockchain, Smart Contracts, DID.
+* User-centric design culture.
+* Making the Web accessible and safe for consumers.  
+* IAM design for access to information and services (e.g. individual, family, and closed-social access).
+* Online Privacy experience and design.
+
+I have expertise in Web Standards, Accessibility, Privacy, Access, Sharing, HTML prototyping, Analytics. Consumer identity and access management.  Blockchain, Smart Contracts, DID.
 
 ## UX Competencies
 UX managers need to have current knowledge in many different areas.
@@ -21,5 +26,5 @@ UX managers need to have current knowledge in many different areas.
 * Search Engine Optimization (SEO)
 
 ## References Material
-[Bibliograhy](reading.md)
+[Bibliograhy](readings.md)
 
