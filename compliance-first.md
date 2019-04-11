@@ -17,6 +17,7 @@ It's time Compliance First.  We've had lots of design trends mobile first, priva
 * digital divide and content that breaks older tech and forces consumers to spend
 
 
+
 ## Privacy
 * Privacy => trust
 * Transparent about site privacy / your business model
@@ -30,6 +31,8 @@ It's time Compliance First.  We've had lots of design trends mobile first, priva
 * Study
 * Participate 
 * Work with lawyers
+* remediation/retrofit is second-class experience. Like TSA Pre-check vs massess; masses is a second-class experience.
+* Compliance First experience is liberty.
 
 ## Civil Rights
 * benefit all individually
