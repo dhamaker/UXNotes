@@ -4,7 +4,13 @@
 
 1. List and discuss laws and regulation you encounter in your business.
 
-2. Activity: Write instructions from the front door to this room without help for a blind visitor.
+2. Write instructions from the front door to this room without help for a blind visitor.
+
+3. Designing accessible email.  
+  * Content 
+  * Plain text is accessible
+  * We increase cost by visual Design
+  * We do not factor cost of Accessibility
 
 ## Key Points
 1. Accessibility is simple
@@ -15,11 +21,5 @@
 6. Building codes.  Types of houses, huts, buildings, height, materials.
 
 
-## Examples
-1. Designing accessible email.  
-  * Content 
-  * Plain text is accessible
-  * We increase cost by visual Design
-  * We do not factor cost of Accessibility
 
   
