@@ -21,6 +21,13 @@ Tools and process to get most out of your process.
 * Navigation
 * Read order / priority guide
 
+## Writers
+Follow 
+* [Google SEO guidelines](https://support.google.com/webmasters/answer/7451184?hl=en)
+* [Plainlanguage.gov](https://www.plainlanguage.gov/)
+* 
+
+
 ## Visual design
 
 
