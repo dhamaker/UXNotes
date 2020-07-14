@@ -42,3 +42,10 @@ Techniques and Failures for Web Content Accessibility Guidelines 2.0
 * Section 504
 * Section 508
 * Plain Language Act
+
+
+## Practice, process, and tools
+* [IBM Accessibility Toolkit](https://www.ibm.com/able/toolkit/)
+* [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
+* [Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping)
+* [Accessiblitity Responsibility Breakdown](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown)
