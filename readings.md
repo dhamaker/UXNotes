@@ -19,12 +19,13 @@
 
 ## Web Guidelines
 * [What's new in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)
+* [Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/TR/WCAG21/)
+Techniques and Failures for Web Content Accessibility Guidelines 2.1
+* [How to Meet WCAG 2.1 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 * [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/WCAG20/)
 * [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 A guide to understanding and implementing Web Content Accessibility Guidelines 2.0
 * [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/)
-* [Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/TR/WCAG21/)
-Techniques and Failures for Web Content Accessibility Guidelines 2.0
 * [FTC .com disclosures (PDF)](https://www.ftc.gov/system/files/documents/plain-language/bus41-dot-com-disclosures-information-about-online-advertising.pdf)
 * [CA Attorney General's Privacy Policy guidelines (PDF)](https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersecurity/making_your_privacy_practices_public.pdf)
 * NIST Cybersecurity Guidelines
