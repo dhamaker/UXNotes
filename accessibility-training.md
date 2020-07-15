@@ -1,4 +1,4 @@
-# Accessibility Training
+# Accessibility Education
 
 ## Activities 
 
