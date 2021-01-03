@@ -15,7 +15,11 @@ Goal map to Standards.   Support accessibility.
    - Interaction
    - Media
  - Aside
+ - Spec custom controls separate from native controls
 ## Behavior
   - Enhancements
+  - Custom controls
   - Content/AJAX
 ## Presentation
+ - Audio experience / script
+ - Document contrast ratios with color specs
