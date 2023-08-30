@@ -25,7 +25,10 @@ Tools and process to get most out of your process.
 Follow 
 * [Google SEO guidelines](https://support.google.com/webmasters/answer/7451184?hl=en)
 * [Plainlanguage.gov](https://www.plainlanguage.gov/)
-* 
+* Identify the name, role, value
+* Identify any hidden and/or decroative content.
+* Listen to the content using a screen reader.
+* Scan the content by heading, headline, keyboard focus
 
 
 ## Visual design
