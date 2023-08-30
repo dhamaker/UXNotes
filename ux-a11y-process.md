@@ -27,6 +27,7 @@ Follow
 * [Plainlanguage.gov](https://www.plainlanguage.gov/)
 * Identify the name, role, value
 * Identify any hidden and/or decroative content.
+* Identify foreign terms and acronyms.
 * Listen to the content using a screen reader.
 * Scan the content by heading, headline, keyboard focus
 
